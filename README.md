@@ -1,8 +1,8 @@
 # Empathy Process Flow – Smart Parking System
 
 ## Student Details
-- Name: Nishchal
-- Roll No: 2K25CSUN06030
+- Name: Harshit
+- Roll No: 2K25CSUN06012
 
 ## Project Overview
 This project represents an Empathy Process Flow for a Smart Parking System designed to solve parking-related problems in smart citi
